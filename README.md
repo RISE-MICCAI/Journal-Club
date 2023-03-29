@@ -11,3 +11,11 @@ For more about RISE-MICCAI and the RISE 2023 Journal Club, check our website at 
 Follow us on GitHub at https://github.com/RISE-MICCAI
 
 And join our mailing list to receive updates about our RISE activities at https://bit.ly/2VMPHXc
+
+## Paper list
+
+No | Date | Moderator | Title | Link
+--- | --- | --- | --- | --- 
+1 | 25/02/2023 | Islem | Hierarchical Reconstruction of 7T-like Images from 3T MRI Using Multi-level CCA and Group Sparsity | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6085103/pdf/nihms963648.pdf
+
+
