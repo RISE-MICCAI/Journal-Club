@@ -16,6 +16,5 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
-1 | 25/02/2023 | Islem | Hierarchical Reconstruction of 7T-like Images from 3T MRI Using Multi-level CCA and Group Sparsity | 
-[Link] (https://link.springer.com/chapter/10.1007/978-3-319-24571-3_79)
+1 | 25/02/2023 | Islem | Hierarchical Reconstruction of 7T-like Images from 3T MRI Using Multi-level CCA and Group Sparsity | [Link] (https://link.springer.com/chapter/10.1007/978-3-319-24571-3_79)
 
