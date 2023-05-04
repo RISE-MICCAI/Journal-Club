@@ -16,6 +16,7 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
+6 | 06/05/2023 | Charles and Andrea | Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization| https://arxiv.org/abs/1404.1100
 5 | 22/04/2023 | Charles | A tutorial on Principal Component Analysis | https://arxiv.org/abs/1404.1100
 4 | 08/04/2023 | Charles and Islem | A dirty dozen: 12 p-value misconceptions | http://mcb112.org/w06/Goodman08.pdf
 3 | 25/03/2023 | Islem and Charles | Coherent Gradients: An Approach to Understanding Generalization in Gradient Descent-based Optimization | https://openreview.net/pdf?id=ryeFY0EFwS
