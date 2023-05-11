@@ -16,6 +16,7 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
+7 | 20/05/2023 | Islem | On Predicting Generalization using GANs | https://openreview.net/pdf?id=eW5R4Cek6y6
 6 | 06/05/2023 | Charles and Andrea | Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization| https://arxiv.org/abs/1404.1100
 5 | 22/04/2023 | Charles | A tutorial on Principal Component Analysis | https://arxiv.org/abs/1404.1100
 4 | 08/04/2023 | Charles and Islem | A dirty dozen: 12 p-value misconceptions | http://mcb112.org/w06/Goodman08.pdf
