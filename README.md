@@ -16,8 +16,8 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
-9 | 14/07/2023 | Islem | HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients | https://arxiv.org/abs/1706.03762
-8 | 30/06/2023 | Charles | Attention Is All You Need | https://arxiv.org/abs/1706.03762
+9 | 14/06/2023 | Islem | HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients | https://arxiv.org/abs/1706.03762
+8 | 3/06/2023 | Charles | Attention Is All You Need | https://arxiv.org/abs/1706.03762
 7 | 20/05/2023 | Islem | On Predicting Generalization using GANs | https://openreview.net/pdf?id=eW5R4Cek6y6
 6 | 06/05/2023 | Charles and Andrea | Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization| https://arxiv.org/abs/1404.1100
 5 | 22/04/2023 | Charles | A tutorial on Principal Component Analysis | https://arxiv.org/abs/1404.1100
