@@ -16,7 +16,6 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
-
 9 | 14/07/2023 | Islem | HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients | https://arxiv.org/abs/1706.03762
 8 | 30/06/2023 | Charles | Attention Is All You Need | https://arxiv.org/abs/1706.03762
 7 | 20/05/2023 | Islem | On Predicting Generalization using GANs | https://openreview.net/pdf?id=eW5R4Cek6y6
