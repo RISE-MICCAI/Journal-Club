@@ -16,6 +16,8 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
+11 | 12/07/2023 | Yasar Mehmood | Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training | https://arxiv.org/pdf/2010.01264.pdf
+10 | 28/06/2023 | Irshad Mehmood| STEEX: Steering Counterfactual Explanations with semantics |https://arxiv.org/pdf/2010.01264.pdf
 9 | 14/06/2023 | Islem | HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients | https://arxiv.org/pdf/2010.01264.pdf
 8 | 03/06/2023 | Charles | Attention Is All You Need | https://arxiv.org/abs/1706.03762
 7 | 20/05/2023 | Islem | On Predicting Generalization using GANs | https://openreview.net/pdf?id=eW5R4Cek6y6
