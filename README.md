@@ -19,7 +19,7 @@ No | Date | Moderator | Title | Link
 12 | 26/07/2023 | Miguel López-Pérez | Disentangling human error from the ground truth in segmentation of medical images | https://arxiv.org/abs/2007.15963
 11 | 12/07/2023 | Yasar Mehmood | Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training | https://arxiv.org/abs/2303.00874
 10 | 28/06/2023 | Samra Irshad | STEEX: Steering Counterfactual Explanations with semantics | https://arxiv.org/abs/2111.09094
-9 | 14/06/2023 | Islem | HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients | https://arxiv.org/pdf/2010.01264.pdf
+9 | 14/06/2023 | Islem | HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients | https://arxiv.org/pdf/2010.01264
 8 | 03/06/2023 | Charles | Attention Is All You Need | https://arxiv.org/abs/1706.03762
 7 | 20/05/2023 | Islem | On Predicting Generalization using GANs | https://openreview.net/pdf?id=eW5R4Cek6y6
 6 | 06/05/2023 | Charles and Andrea | Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization| https://arxiv.org/abs/1404.1100
