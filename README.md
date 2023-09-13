@@ -16,6 +16,7 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
+14 | 20/09/2023 | Ayantika Das | Diffusion Autoencoders: Toward a Meaningful and Decodable Representation | https://openaccess.thecvf.com/content/CVPR2022/papers/Preechakul_Diffusion_Autoencoders_Toward_a_Meaningful_and_Decodable_Representation_CVPR_2022_paper.pdf
 13 | 06/09/2023 | Charles | Metrics to guide development of machine learning algorithms for malaria diagnosis | https://arxiv.org/abs/2209.06947
 12 | 26/07/2023 | Miguel López-Pérez | Disentangling human error from the ground truth in segmentation of medical images | https://arxiv.org/abs/2007.15963
 11 | 12/07/2023 | Yasar Mehmood | Geometric Visual Similarity Learning in 3D Medical Image Self-supervised Pre-training | https://arxiv.org/abs/2303.00874
