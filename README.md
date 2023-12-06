@@ -16,7 +16,8 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
-17 | 15/11/2023 | Prosper Oyibo | Two-stage automated diagnosis framework for urogenital schistosomiasis in microscopy images from low-resource settings | https://doi.org/10.1117/1.JMI.10.4.044005
+18 | 13/12/2023 | Tiarna Lee | An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation | https://arxiv.org/abs/2308.13415
+17 | 29/11/2023 | Prosper Oyibo | Two-stage automated diagnosis framework for urogenital schistosomiasis in microscopy images from low-resource settings | https://doi.org/10.1117/1.JMI.10.4.044005
 16 | 15/11/2023 | Tareen Dawood | Uncertainty aware training to improve deep learning model calibration for classification of cardiac MR images | https://www.sciencedirect.com/science/article/pii/S1361841523001214
 15 | 01/11/2023 | Prerak Mody and Mortiz Fuchs | Prediction Variability to Identify Reduced AI Performance in Cancer Diagnosis at MRI and CT | https://doi.org/10.1148/radiol.230275
 14 | 20/09/2023 | Ayantika Das | Diffusion Autoencoders: Toward a Meaningful and Decodable Representation | https://openaccess.thecvf.com/content/CVPR2022/papers/Preechakul_Diffusion_Autoencoders_Toward_a_Meaningful_and_Decodable_Representation_CVPR_2022_paper.pdf
