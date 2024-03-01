@@ -16,6 +16,7 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
+20  | 09/03/2024 | Charles Delahunt | Understanding metric-related pitfalls in image analysis validation | https://arxiv.org/abs/2302.01790
 19 | 24/02/2024 | Qiang Zhang | Toward Replacing Late Gadolinium Enhancement With Artificial Intelligence Virtual Native Enhancement for Gadolinium-Free Cardiovascular Magnetic Resonance Tissue Characterization in Hypertrophic Cardiomyopathy and Artificial intelligence for contrast-free MRI: Scar assessment in myocardial infarction using deep learning–based virtual native enhancement | https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.060137 and https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.121.054432
 18 | 13/12/2023 | Tiarna Lee | An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation | https://arxiv.org/abs/2308.13415
 17 | 29/11/2023 | Prosper Oyibo | Two-stage automated diagnosis framework for urogenital schistosomiasis in microscopy images from low-resource settings | https://doi.org/10.1117/1.JMI.10.4.044005
