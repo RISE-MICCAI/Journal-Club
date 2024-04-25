@@ -22,7 +22,7 @@ No | Date | Moderator | Title | Link
 22  | 23/03/2024 | Charles Delahunt | Consistent Individualized Feature Attribution for Tree Ensembles | https://arxiv.org/abs/1802.03888
 21  | 09/03/2024 | Charles Delahunt | Understanding metric-related pitfalls in image analysis validation | https://arxiv.org/abs/2302.01790
 20 | 24/02/2024 | Qiang Zhang | Toward Replacing Late Gadolinium Enhancement With Artificial Intelligence Virtual Native Enhancement for Gadolinium-Free Cardiovascular Magnetic Resonance Tissue Characterization in Hypertrophic Cardiomyopathy and Artificial intelligence for contrast-free MRI: Scar assessment in myocardial infarction using deep learning–based virtual native enhancement | https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.060137 and https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.121.054432
-19 | 13/01/2024 | Charles, Andrea and Esther| Opening session multi-linguistic: french, spanish, english, arabic |
+19 | 13/01/2024 | Charles, Andrea, Ahmed, Tareen and Esther| Opening session multi-linguistic: french, spanish, english, arabic |
 18 | 13/12/2023 | Tiarna Lee | An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation | https://arxiv.org/abs/2308.13415
 17 | 29/11/2023 | Prosper Oyibo | Two-stage automated diagnosis framework for urogenital schistosomiasis in microscopy images from low-resource settings | https://doi.org/10.1117/1.JMI.10.4.044005
 16 | 15/11/2023 | Tareen Dawood | Uncertainty aware training to improve deep learning model calibration for classification of cardiac MR images | https://www.sciencedirect.com/science/article/pii/S1361841523001214
