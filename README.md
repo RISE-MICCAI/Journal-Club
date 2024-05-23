@@ -16,7 +16,8 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
-26  | 04/05/2024 | Pamela Guevara | Superficial white matter bundle atlas based on hierarchical fiber clustering over probabilistic tractography data | https://www.sciencedirect.com/science/article/pii/S1053811922006656
+27  | 01/06/2024 | Alvaro Gonzalez-Jimenez | Robust T-Loss for Medical Image Segmentation | https://arxiv.org/abs/2306.00753
+26  | 18/05/2024 | Pamela Guevara | Superficial white matter bundle atlas based on hierarchical fiber clustering over probabilistic tractography data | https://www.sciencedirect.com/science/article/pii/S1053811922006656
 25  | 04/05/2024 | Tareen Dawood | Evaluating the Fairness of Deep Learning Uncertainty Estimates in Medical Image Analysis | https://arxiv.org/pdf/2303.03242
 24  | 20/04/2024 | Islem Rekik | Special session: The journey of a research paper: from writing to review| 
 23  | 06/04/2024 | Zhen Yuan | Orthogonal annotation benefits barely-supervised medical image segmentation | https://arxiv.org/abs/2303.13090
