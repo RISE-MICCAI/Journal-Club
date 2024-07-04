@@ -16,6 +16,7 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
+30  | 13/07/2024 | John Kalkhof | M3D-NCA: Robust 3D Segmentation with Built-In Quality Control | https://arxiv.org/pdf/2309.02954.pdf
 29  | 29/06/2024 | Gasper Podobnik | HDilemma: Are Open-Source Hausdorff Distance Implementations Equivalent? | https://drive.google.com/drive/folders/1rlOntE5ZZ31o5rc9vgzh6PqzWdu29uow?usp=sharing
 28  | 15/06/2024 | DongAo Ma | Foundation Ark: Accruing and Reusing Knowledge for Superior and Robust Performance | https://arxiv.org/abs/2310.09507
 27  | 01/06/2024 | Alvaro Gonzalez-Jimenez | Robust T-Loss for Medical Image Segmentation | https://arxiv.org/abs/2306.00753
