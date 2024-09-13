@@ -16,6 +16,7 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
+33  | 21/09/2024 | Ahmed Nebli | GRAM: Graph Regularizable Assessment Metric | https://drive.google.com/file/d/1aFCpOkuLw06_bbERqXq6Tu_5mJtPPueL/view?usp=sharing
 32  | 07/09/2024 | Paula Feldman | VesselVAE: Recursive Variational Autoencoders for 3D Blood Vessel Synthesis | https://arxiv.org/abs/2307.03592
 31  | 27/07/2024 | Nahal Mirzaie | Weakly-Supervised Drug Efficiency Estimation with Confidence Score: Application to COVID-19 Drug Discovery | https://link.springer.com/chapter/10.1007/978-3-031-43993-3_65
 30  | 13/07/2024 | John Kalkhof | M3D-NCA: Robust 3D Segmentation with Built-In Quality Control | https://arxiv.org/pdf/2309.02954.pdf
