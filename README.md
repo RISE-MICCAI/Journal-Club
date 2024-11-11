@@ -16,6 +16,7 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
+35  | 16/11/2024 | Yiyang Xu | Improved 3D Whole Heart Geometry from Sparse CMR Slices | https://www.arxiv.org/abs/2408.07532
 34  | 02/11/2024 | Dewmini Hasara Wickremasinghe | Improving the Scan-rescan Precision of AI-based CMR Biomarker Estimation | https://arxiv.org/abs/2408.11754														
 33  | 21/09/2024 | Ahmed Nebli | GRAM: Graph Regularizable Assessment Metric | https://drive.google.com/file/d/1aFCpOkuLw06_bbERqXq6Tu_5mJtPPueL/view?usp=sharing
 32  | 07/09/2024 | Paula Feldman | VesselVAE: Recursive Variational Autoencoders for 3D Blood Vessel Synthesis | https://arxiv.org/abs/2307.03592
