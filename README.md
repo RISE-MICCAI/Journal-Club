@@ -16,6 +16,7 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
+36  | 30/11/2024 | Xinrui Yuan| Multi-task Joint Prediction of Infant Cortical Morphological and Cognitive Development | https://link.springer.com/content/pdf/10.1007/978-3-031-43996-4_52.pdf?pdf=inline%20link
 35  | 16/11/2024 | Yiyang Xu | Improved 3D Whole Heart Geometry from Sparse CMR Slices | https://www.arxiv.org/abs/2408.07532
 34  | 02/11/2024 | Dewmini Hasara Wickremasinghe | Improving the Scan-rescan Precision of AI-based CMR Biomarker Estimation | https://arxiv.org/abs/2408.11754														
 33  | 21/09/2024 | Ahmed Nebli | GRAM: Graph Regularizable Assessment Metric | https://drive.google.com/file/d/1aFCpOkuLw06_bbERqXq6Tu_5mJtPPueL/view?usp=sharing
