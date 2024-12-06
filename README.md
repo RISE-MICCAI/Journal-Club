@@ -1,6 +1,6 @@
 # Journal-Club
 
-The RISE 2023 Journal Club aims to create a friendly environment to discuss the latest state-of-the-art papers in the areas of medical image analysis, AI and computer vision. The main objective of this bi-weekly reading group is to help you develop/improve your critical and design thinking skills, which are essential skills for researchers and will help you when presenting or writing your own work.
+The RISE Journal Club aims to create a friendly environment to discuss the latest state-of-the-art papers in the areas of medical image analysis, AI and computer vision. The main objective of this bi-weekly reading group is to help you develop/improve your critical and design thinking skills, which are essential skills for researchers and will help you when presenting or writing your own work.
 
 To date, we have held two editions in which participants joined us remotely from different continents in highly engaging and stimulating sessions.
 
@@ -16,6 +16,7 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | --- 
+37  | 14/12/2024 | Mostafa Sharifzadeh| Mitigating Aberration-Induced Noise: A Deep Learning-Based Aberration-to-Aberration Approach | https://arxiv.org/pdf/2308.11149
 36  | 30/11/2024 | Xinrui Yuan| Multi-task Joint Prediction of Infant Cortical Morphological and Cognitive Development | https://link.springer.com/content/pdf/10.1007/978-3-031-43996-4_52.pdf?pdf=inline%20link
 35  | 16/11/2024 | Yiyang Xu | Improved 3D Whole Heart Geometry from Sparse CMR Slices | https://www.arxiv.org/abs/2408.07532
 34  | 02/11/2024 | Dewmini Hasara Wickremasinghe | Improving the Scan-rescan Precision of AI-based CMR Biomarker Estimation | https://arxiv.org/abs/2408.11754														
