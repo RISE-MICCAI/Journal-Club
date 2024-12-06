@@ -6,7 +6,7 @@ To date, we have held two editions in which participants joined us remotely from
 
 During each session, the moderators briefly introduce the paper and then moderate a discussion where everyone is welcome to provide their thoughts and ask any questions on the paper. The topics of the papers will vary, and we will try to cover different areas of medical data analysis, e.g., registration, segmentation, federated learning, fairness, and reinforcement learning —among others. Similarly, we will review papers from the machine and deep learning communities, providing you with a broader overview of the state-of-the-art method.
 
-For more about RISE-MICCAI and the RISE 2023 Journal Club, check our website at http://www.miccai.org/about-miccai/rise-miccai/
+For more about RISE-MICCAI and the RISE Journal Club, check our website at http://www.miccai.org/about-miccai/rise-miccai/
 
 Follow us on GitHub at https://github.com/RISE-MICCAI
 
