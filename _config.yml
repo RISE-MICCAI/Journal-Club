@@ -22,8 +22,8 @@ title: RISE-MICCAI
 email: miccai.rise@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Journal Club RISE MICCAI.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Journal-Club" # the subpath of your site, e.g. /blog
+url: "https://rise-miccai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RMiccai
 github_username:  RISE-MICCAI
 
