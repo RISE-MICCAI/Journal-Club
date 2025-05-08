@@ -16,7 +16,7 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | ---
-41  | 03/05/2025 | Mengjin Dong| Learning Across Boundaries: Tackling Heterogeneity in Medical Federated Learning |
+41  | 03/05/2025 | Umang Pandey| Learning Across Boundaries: Tackling Heterogeneity in Medical Federated Learning |
 40  | 05/04/2025 | Arna Ghosh| Bridging the conceptual gap between brains and AI: Representation learning | 
 39  | 22/03/2025 | Philippe Gottfrois| PASSION for Dermatology: Bridging the Diversity Gap with Pigmented Skin Images from Sub-Saharan Africa | 
 38  | 08/03/2025 | Mengjin Dong| Deep Learning for Detecting Progressive Changes in Alzheimer’s Disease | https://shorturl.at/5gWbD
