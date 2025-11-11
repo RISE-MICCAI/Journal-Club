@@ -16,6 +16,13 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | ---
+48  | 05/17/2025 | Julia Wolleb | TBD | TBD
+47  | 05/17/2025 | Lasya Sreepada | TBD | TBD
+46  | 05/17/2025 | Yue Li | TBD | TBD
+45  | 05/17/2025 | Special Session | TBD | TBD
+44  | 05/17/2025 | Special Session | TBD | TBD
+43  | 05/17/2025 | Tabish Syed | TBD | TBD
+42  | 05/17/2025 | Saurabh Sharma| TBD | TBD
 41  | 03/05/2025 | Umang Pandey| Learning Across Boundaries: Tackling Heterogeneity in Medical Federated Learning |
 40  | 05/04/2025 | Arna Ghosh| Bridging the conceptual gap between brains and AI: Representation learning | 
 39  | 22/03/2025 | Philippe Gottfrois| PASSION for Dermatology: Bridging the Diversity Gap with Pigmented Skin Images from Sub-Saharan Africa | 
