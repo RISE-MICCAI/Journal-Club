@@ -16,17 +16,19 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date | Moderator | Title | Link
 --- | --- | --- | --- | ---
-48  | 05/17/2025 | Julia Wolleb | TBD | TBD
-47  | 05/17/2025 | Lasya Sreepada | TBD | TBD
-46  | 05/17/2025 | Yue Li | TBD | TBD
-45  | 05/17/2025 | Special Session | TBD | TBD
-44  | 05/17/2025 | Special Session | TBD | TBD
-43  | 05/17/2025 | Tabish Syed | TBD | TBD
-42  | 05/17/2025 | Saurabh Sharma| TBD | TBD
-41  | 03/05/2025 | Umang Pandey| Learning Across Boundaries: Tackling Heterogeneity in Medical Federated Learning |
-40  | 05/04/2025 | Arna Ghosh| Bridging the conceptual gap between brains and AI: Representation learning | 
-39  | 22/03/2025 | Philippe Gottfrois| PASSION for Dermatology: Bridging the Diversity Gap with Pigmented Skin Images from Sub-Saharan Africa | 
-38  | 08/03/2025 | Mengjin Dong| Deep Learning for Detecting Progressive Changes in Alzheimer’s Disease | https://shorturl.at/5gWbD
+50  | 05/17/2025 | Julia Wolleb | TBD | TBD
+49  | 05/17/2025 | Lasya Sreepada | TBD | TBD
+48  | 05/17/2025 | Yue Li | TBD | TBD
+47  | 05/17/2025 | Special Session | TBD | TBD
+46  | 05/17/2025 | Special Session | TBD | TBD
+45  | 05/17/2025 | Tabish Syed | TBD | TBD
+44  | 05/17/2025 | Saurabh Sharma| TBD | TBD
+43  | 03/05/2025 | Pramit Saha | TBD | TBD
+42  | 03/05/2025 | Umang Pandey| Learning Across Boundaries: Tackling Heterogeneity in Medical Federated Learning |
+41  | 05/04/2025 | Arna Ghosh| Bridging the conceptual gap between brains and AI: Representation learning | 
+40  | 22/03/2025 | Philippe Gottfrois| PASSION for Dermatology: Bridging the Diversity Gap with Pigmented Skin Images from Sub-Saharan Africa | 
+39  | 08/03/2025 | Mengjin Dong| Deep Learning for Detecting Progressive Changes in Alzheimer’s Disease | https://shorturl.at/5gWbD
+38  | 08/01/2025 | Special Session | TBD | TBD
 37  | 14/12/2024 | Mostafa Sharifzadeh| Mitigating Aberration-Induced Noise: A Deep Learning-Based Aberration-to-Aberration Approach | https://arxiv.org/pdf/2308.11149
 36  | 30/11/2024 | Xinrui Yuan| Multi-task Joint Prediction of Infant Cortical Morphological and Cognitive Development | https://link.springer.com/content/pdf/10.1007/978-3-031-43996-4_52.pdf?pdf=inline%20link
 35  | 16/11/2024 | Yiyang Xu | Improved 3D Whole Heart Geometry from Sparse CMR Slices | https://www.arxiv.org/abs/2408.07532
