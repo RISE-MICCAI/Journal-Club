@@ -14,22 +14,22 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 ## Paper list
 
-No | Date | Moderator | Title | Link
+No | Date (DD/MM/YYYY)| Speaker | Title | Link
 --- | --- | --- | --- | ---
-51  | 05/17/2025 |  | Agentic AI for radiology education | 
-50  | 05/17/2025 | Julia Wolleb | TBD | 
-49  | 05/17/2025 | Lasya Sreepada | Deciphering Epigenetic Signatures of Aging and Neurodegeneration in Alzheimer’s Disease with Machine Learning | 
-48  | 05/17/2025 | Yue Li | A Curvature-Guided Coarse-to-Fine Framework for Enhanced Whole Brain Segmentation | 
-47  | 05/17/2025 | Special Session | TBD | 
-46  | 05/17/2025 | Special Session | TBD | 
-45  | 05/17/2025 | Tabish Syed | Cellular geometry of the heart | 
-44  | 05/17/2025 | Saurabh Sharma| TBD | 
-43  | 03/05/2025 | Pramit Saha | TBD | 
-42  | 03/05/2025 | Umang Pandey| Learning Across Boundaries: Tackling Heterogeneity in Medical Federated Learning |
+51  | 15/11/2025 | Akash Awasthi | Agentic AI for radiology education | springer.com/chapter/10.1007/978-3-032-04971-1_34
+50  | 01/11/2025 | Julia Wolleb | Towards Generalizable Neural Representations for Medical Images and Videos  | 
+49  | 04/10/2025 | Lasya Sreepada | Deciphering Epigenetic Signatures of Aging and Neurodegeneration in Alzheimer’s Disease with Machine Learning | 
+48  | 09/08/2025 | Yue Li | A Curvature-Guided Coarse-to-Fine Framework for Enhanced Whole Brain Segmentation | 
+47  | 11/07/2025 | Special Session | LISA Challenge: Low-field pediatric brain magnetic resonance Image Segmentation and quality Assurance Challenge | 
+46  | 28/06/2025 | Special Session | MICCAI Lighthouse Challenge: Brain Tumor Segmentation Challenge |  | 
+45  | 14/06/2025 | Tabish Syed | Cellular geometry of the heart | 
+44  | 17/05/2025 | Saurabh Sharma| Confidence Matters: Enhancing Medical Image Classification Through Uncertainty-Driven Contrastive Self-Distillation | 
+43  | 03/05/2025 | Umang Pandey| Learning Across Boundaries: Tackling Heterogeneity in Medical Federated Learning |
+42  | 19/04/2025 | Pramit Saha | Federated Medical Image Analysis: Shifting from data sharing to data access in Healthcare | 
 41  | 05/04/2025 | Arna Ghosh| Bridging the conceptual gap between brains & AI: Representation learning | 
 40  | 22/03/2025 | Philippe Gottfrois| PASSION for Dermatology: Bridging the Diversity Gap with Pigmented Skin Images from Sub-Saharan Africa | 
 39  | 08/03/2025 | Mengjin Dong| Detection and Localization of Progressive Changes in Longitudinal MRI of the Hippocampal Region in Alzheimer’s Disease with Deep Learning |
-38  | 08/01/2025 | Special Session | Ask us anything! Q&A session with MICCAI 2025 program chairs | 
+38  | 18/02/2025 | Special Session | Ask us anything! Q&A session with MICCAI 2025 program chairs | 
 37  | 14/12/2024 | Mostafa Sharifzadeh| Mitigating Aberration-Induced Noise: A Deep Learning-Based Aberration-to-Aberration Approach | https://arxiv.org/pdf/2308.11149
 36  | 30/11/2024 | Xinrui Yuan| Multi-task Joint Prediction of Infant Cortical Morphological and Cognitive Development | https://link.springer.com/content/pdf/10.1007/978-3-031-43996-4_52.pdf?pdf=inline%20link
 35  | 16/11/2024 | Yiyang Xu | Improved 3D Whole Heart Geometry from Sparse CMR Slices | https://www.arxiv.org/abs/2408.07532
