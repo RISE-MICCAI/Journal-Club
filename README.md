@@ -30,8 +30,6 @@ No | Date | Moderator | Title | Link
 40  | 22/03/2025 | Philippe Gottfrois| PASSION for Dermatology: Bridging the Diversity Gap with Pigmented Skin Images from Sub-Saharan Africa | 
 39  | 08/03/2025 | Mengjin Dong| Detection and Localization of Progressive Changes in Longitudinal MRI of the Hippocampal Region in Alzheimer’s Disease with Deep Learning |
 38  | 08/01/2025 | Special Session | Ask us anything! Q&A session with MICCAI 2025 program chairs | 
-
-
 37  | 14/12/2024 | Mostafa Sharifzadeh| Mitigating Aberration-Induced Noise: A Deep Learning-Based Aberration-to-Aberration Approach | https://arxiv.org/pdf/2308.11149
 36  | 30/11/2024 | Xinrui Yuan| Multi-task Joint Prediction of Infant Cortical Morphological and Cognitive Development | https://link.springer.com/content/pdf/10.1007/978-3-031-43996-4_52.pdf?pdf=inline%20link
 35  | 16/11/2024 | Yiyang Xu | Improved 3D Whole Heart Geometry from Sparse CMR Slices | https://www.arxiv.org/abs/2408.07532
