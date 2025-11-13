@@ -16,19 +16,19 @@ And join our mailing list to receive updates about our RISE activities at https:
 
 No | Date (DD/MM/YYYY)| Speaker | Title | Link
 --- | --- | --- | --- | ---
-51  | 15/11/2025 | Akash Awasthi | Agentic AI for radiology education | springer.com/chapter/10.1007/978-3-032-04971-1_34
-50  | 01/11/2025 | Julia Wolleb | Towards Generalizable Neural Representations for Medical Images and Videos  | 
-49  | 04/10/2025 | Lasya Sreepada | Deciphering Epigenetic Signatures of Aging and Neurodegeneration in Alzheimer’s Disease with Machine Learning | 
-48  | 09/08/2025 | Yue Li | A Curvature-Guided Coarse-to-Fine Framework for Enhanced Whole Brain Segmentation | 
-47  | 11/07/2025 | Special Session | LISA Challenge: Low-field pediatric brain magnetic resonance Image Segmentation and quality Assurance Challenge | 
-46  | 28/06/2025 | Special Session | MICCAI Lighthouse Challenge: Brain Tumor Segmentation Challenge |  | 
-45  | 14/06/2025 | Tabish Syed | Cellular geometry of the heart | 
-44  | 17/05/2025 | Saurabh Sharma| Confidence Matters: Enhancing Medical Image Classification Through Uncertainty-Driven Contrastive Self-Distillation | 
-43  | 03/05/2025 | Umang Pandey| Learning Across Boundaries: Tackling Heterogeneity in Medical Federated Learning |
-42  | 19/04/2025 | Pramit Saha | Federated Medical Image Analysis: Shifting from data sharing to data access in Healthcare | 
-41  | 05/04/2025 | Arna Ghosh| Bridging the conceptual gap between brains & AI: Representation learning | 
-40  | 22/03/2025 | Philippe Gottfrois| PASSION for Dermatology: Bridging the Diversity Gap with Pigmented Skin Images from Sub-Saharan Africa | 
-39  | 08/03/2025 | Mengjin Dong| Detection and Localization of Progressive Changes in Longitudinal MRI of the Hippocampal Region in Alzheimer’s Disease with Deep Learning |
+51  | 15/11/2025 | Akash Awasthi | Agentic AI for radiology education | https://springer.com/chapter/10.1007/978-3-032-04971-1_34
+50  | 01/11/2025 | Julia Wolleb | Towards Generalizable Neural Representations for Medical Images and Videos | https://arxiv.org/abs/2502.14401
+49  | 04/10/2025 | Lasya Sreepada | Deciphering Epigenetic Signatures of Aging and Neurodegeneration in Alzheimer’s Disease with Machine Learning | https://www.sciencedirect.com/science/article/pii/S0197458025000995
+48  | 09/08/2025 | Yue Li | A Curvature-Guided Coarse-to-Fine Framework for Enhanced Whole Brain Segmentation | https://link.springer.com/chapter/10.1007/978-3-031-72114-4_2
+47  | 11/07/2025 | Special Session | LISA Challenge: Low-field pediatric brain magnetic resonance Image Segmentation and quality Assurance Challenge | https://link.springer.com/book/10.1007/978-3-031-83008-2
+46  | 28/06/2025 | Special Session | MICCAI Lighthouse Challenge: Brain Tumor Segmentation Challenge | http://synapse.org/Synapse:syn64153130/wiki/630130
+45  | 14/06/2025 | Tabish Syed | Cellular geometry of the heart | https://www.embopress.org/doi/full/10.15252/embj.2022113288 and https://link.springer.com/chapter/10.1007/978-3-030-20351-1_14
+44  | 17/05/2025 | Saurabh Sharma| Confidence Matters: Enhancing Medical Image Classification Through Uncertainty-Driven Contrastive Self-Distillation | https://link.springer.com/chapter/10.1007/978-3-031-72117-5_13
+43  | 03/05/2025 | Umang Pandey| Learning Across Boundaries: Tackling Heterogeneity in Medical Federated Learning | https://proceedings.mlr.press/v259/kulkarni25a.html, https://papers.miccai.org/miccai-2024/paper/1348_paper.pdf, https://papers.miccai.org/miccai-2024/paper/2156_paper.pdf
+42  | 19/04/2025 | Pramit Saha | Federated Medical Image Analysis: Shifting from data sharing to data access in Healthcare | https://openaccess.thecvf.com/content/CVPR2025/html/Saha_F3OCUS_-_Federated_Finetuning_of_Vision-Language_Foundation_Models_with_Optimal_CVPR_2025_paper.html
+41  | 05/04/2025 | Arna Ghosh| Bridging the conceptual gap between brains & AI: Representation learning | https://escholarship.mcgill.ca/downloads/vh53x2589
+40  | 22/03/2025 | Philippe Gottfrois| PASSION for Dermatology: Bridging the Diversity Gap with Pigmented Skin Images from Sub-Saharan Africa | https://link.springer.com/chapter/10.1007/978-3-031-72384-1_66
+39  | 08/03/2025 | Mengjin Dong| Detection and Localization of Progressive Changes in Longitudinal MRI of the Hippocampal Region in Alzheimer’s Disease with Deep Learning | https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00294/124226
 38  | 18/02/2025 | Special Session | Ask us anything! Q&A session with MICCAI 2025 program chairs | 
 37  | 14/12/2024 | Mostafa Sharifzadeh| Mitigating Aberration-Induced Noise: A Deep Learning-Based Aberration-to-Aberration Approach | https://arxiv.org/pdf/2308.11149
 36  | 30/11/2024 | Xinrui Yuan| Multi-task Joint Prediction of Infant Cortical Morphological and Cognitive Development | https://link.springer.com/content/pdf/10.1007/978-3-031-43996-4_52.pdf?pdf=inline%20link
